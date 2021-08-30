@@ -1,0 +1,5 @@
+ErrorDocument 400 http://suryamain.cf/404.html
+ErrorDocument 401 http://suryamain.cf/404.html
+ErrorDocument 403 http://suryamain.cf/404.html
+ErrorDocument 404 http://suryamain.cf/404.html
+ErrorDocument 503 http://suryamain.cf/404.html
